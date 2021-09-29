@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @outsiderintrospector
 - 👀 I’m interested in music and arts   
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript , React , Css , Ableton 
 - 💞️ I’m looking to collaborate on music business and entertainment
 - 📫 Reach me on twitter @thementalstates 
 
